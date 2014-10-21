@@ -1,6 +1,6 @@
 BODY	{					/* ドキュメント全体 */
-	background-color:white;			/* 背景色：白 */
-	font-style:#ffffcc;			/* フォントスタイル：標準 */
+	background-color:#ffffcc;			/* 背景色：白 */
+	font-style:normal;			/* フォントスタイル：標準 */
 	font-weight:normal;			/* 文字太さ：標準 */
 	font-size:12pt;				/* フォントサイズ：12pt */
 	text-align:center;			/* 文字揃え：左寄せ */
