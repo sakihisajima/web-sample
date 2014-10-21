@@ -1,0 +1,24 @@
+BODY	{					/* ドキュメント全体 */
+	background-color:white;			/* 背景色：白 */
+	font-style:normal;			/* フォントスタイル：標準 */
+	font-weight:normal;			/* 文字太さ：標準 */
+	font-size:12pt;				/* フォントサイズ：12pt */
+	text-align:center;			/* 文字揃え：左寄せ */
+	text-indent:0pt;			/* インデント：0pt */
+	color:black;				/* 文字色：黒 */
+	margin:5px 5px;				/* マージン：上下・左右 */
+	}
+
+A:link	{
+	color:#3333ff;				/* リンク：文字色 */
+	}
+
+A:visited	{
+	color:#006600;				/* 既訪リンク：文字色 */
+	}
+
+A:active	{
+	color:#ff9933;				/* リンククリック中：文字色 */
+	}
+
+
